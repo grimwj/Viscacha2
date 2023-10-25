@@ -49,10 +49,10 @@ Positive
 		Background_Color=0
 		# 0 - none 
 		# 1 - dots
-		Type=5
+		Type=1
 		# px/s 
 		Speed=500
-		Direction=180
+		Direction=-90
 		Coherence=1
 		# px, min 8 max 40
 		Dot_Size=4
@@ -80,7 +80,7 @@ Positive
 
 		Speed=500
 		Direction=-90
-		Coherence=1
+		Coherence=0
 		Dot_Size=4
 		Dot_Color=205
 		Dot_Max_Count=2465
@@ -97,7 +97,7 @@ Positive
 		Speed_X=0
 		Speed_Y=0
 		Dot_Size=4
-		Dot_Color=180
+		Dot_Color=128
 		Dot_Max_Count=2000
 		Life_Time=0.2
 	}
@@ -108,7 +108,8 @@ Negative
 {
 	Background
 	{
-		Direction=180
+		Direction=-90
+		Speed=500
 	}
 	Shape
 	{
@@ -117,7 +118,7 @@ Negative
 		Field_Scale = PARAM
 		#Scale = PARAM
 		#Ellipse_Y=PARAM
-		#Background_Color=0
+		#Background_Color=205
 	}
 }
 
