@@ -4,12 +4,12 @@
 # plik testowy dla ksztaltow, wariant FieldScale
 # zmienia sie skala, ok 0.2 (easy) do 1 (hard)
 
-Background=0
+Background=205
 Experiment_Repeat=1
 Screen_Change_Brightness=128
 
-Fixation_Colors_Background=205,205,205
-Fixation_Colors_Cross=0,0,0
+Fixation_Colors_Background=0,0,0
+Fixation_Colors_Cross=205,205,205
 
 #Experiment_Type=Constant
 #Constant_Definition 
@@ -38,7 +38,7 @@ Trial_Times
     Screen_Change_Delay=0.5
     Max_Answer_Time=10.0
     Delay_After_Positive=0.3
-    #Threshold_Calc_Delay=0.5
+    Threshold_Calc_Delay=0.5
 }
 
 Positive 
@@ -46,22 +46,21 @@ Positive
 	# bottom layer, underneath Shape & Noise
 	Background
 	{
-		Background_Color=0
+		Background_Color=205
 		# 0 - none 
 		# 1 - dots
-		Type=5
+		Type=1
 		# px/s 
-		Speed=500
-		Direction=180
+		Speed=434
+		Direction=-90
 		Coherence=1
 		# px, min 8 max 40
 		Dot_Size=4
 		# 205 - white, 0 - black
-		Dot_Color=205
+		Dot_Color=0
 		Dot_Max_Count=2465
 		# 0 for infinite
 		Life_Time=1000
-		Dot_Color_Threshold = 1
 	}
 
 	# medium layer, underneath Noise, over Background
@@ -69,7 +68,7 @@ Positive
 	{
 		Field_Scale=1
 		Scale=1
-		Background_Color=0
+		Background_Color=205
 		Ellipse_X=103
 		Ellipse_Y=103
 
@@ -78,14 +77,13 @@ Positive
 
 		Horizontal_Offset=120
 
-		Speed=500
+		Speed=217
 		Direction=-90
 		Coherence=1
 		Dot_Size=4
-		Dot_Color=205
+		Dot_Color=0
 		Dot_Max_Count=2465
 		Life_Time=1000
-		Dot_Color_Threshold = 1
 	}
 
 	# top layer, over Background & Shape
@@ -97,8 +95,8 @@ Positive
 		Speed_X=0
 		Speed_Y=0
 		Dot_Size=4
-		Dot_Color=180
-		Dot_Max_Count=2000
+		Dot_Color=128
+		Dot_Max_Count=2465
 		Life_Time=0.2
 	}
 }
@@ -108,7 +106,8 @@ Negative
 {
 	Background
 	{
-		Direction=180
+		Direction=-90
+		Speed=434
 	}
 	Shape
 	{
@@ -117,7 +116,7 @@ Negative
 		Field_Scale = PARAM
 		#Scale = PARAM
 		#Ellipse_Y=PARAM
-		#Background_Color=0
+		#Background_Color=205
 	}
 }
 
