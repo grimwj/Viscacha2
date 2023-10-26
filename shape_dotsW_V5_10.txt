@@ -21,7 +21,7 @@ Staircase_Definition
 {
     Easiest=0.5
     Hardest=1
-    Start=0.62
+    Start=0.59
     Max_Reversals=4
     Factor=0.1
     Min_Reversals=4
