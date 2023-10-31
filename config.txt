@@ -14,7 +14,7 @@ KEY_FEEDER=84
 #s
 KEY_START=83
 #
-patient_name=retpigmK_049_YG
+patient_name=TestPatient
 start_screen_background_color=128,128,128
 start_screen_text_color=0,0,0
 focus_point=1
