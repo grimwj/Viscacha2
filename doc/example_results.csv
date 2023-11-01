@@ -1,0 +1,204 @@
+Start of experiment. 20220729_1020
+Source file name: Shape_Brt.txt
+Screen resolution h: 1920
+Screen resolution v: 1080
+Diagonal inch: 31.5
+Horizontal angle: 44.64
+Screen height mm: 392.2580178300104
+Screen width mm: 697.3475872533518
+Distance mm: 849.3099881165621
+Pixel to angle multiplier: 0.02325
+Patient name: retpigmK_049_SB
+Data loaded. variable PARAM = Field_Scale21
+Experiment type = Staircase
+Dots/sr (S+ background layer): 10227.114983872782
+Dots/angular deg^2 (S+ background layer): 3.115383766387327
+Dot size angular deg^2 (S+ background layer): 0.11624999999999999
+Dots/sr (S- background layer): 10227.114983872782
+Dots/angular deg^2 (S- background layer): 3.115383766387327
+Dot size angular deg^2 (S- background layer): 0.11624999999999999
+Dots/sr (S+ shape layer): 0.0
+Dots/angular deg^2 (S+ shape layer): 0.0
+Dot size angular deg^2 (S+ shape layer): 0.11624999999999999
+Dots/sr (S- shape layer): 0.0
+Dots/angular deg^2 (S- shape layer): 0.0
+Dot size angular deg^2 (S- shape layer): 0.11624999999999999
+Dots/sr (S+ noise layer): 5844.065705070161
+Dots/angular deg^2 (S+ noise layer): 1.7802192950784725
+Dot size angular deg^2 (S+ noise layer): 0.11624999999999999
+Dots/sr (S- noise layer): 5844.065705070161
+Dots/angular deg^2 (S- noise layer): 1.7802192950784725
+Dot size angular deg^2 (S- noise layer): 0.11624999999999999
+1.537;Screen change
+1.537;Scanner S
+Starting experiment number 1...
+Event time;Event type;Trial;Duration;Selection;Correct;Success;Experimentator;External Stimuli;Reversal;Staircase level
+3.594;Screen change
+4.157;Trial display
+5.157;Right chosen
+5.288;Trial summary;1;1.131;r;r;1;;;0;0.8
+5.289;Screen change
+5.8;Trial display
+6.337;Left chosen
+6.483;Trial summary;2;0.683;l;l;1;;;0;0.7272727272727273
+6.487;Screen change
+7.003;Trial display
+7.491;Left chosen
+7.619;Trial summary;3;0.615;l;l;1;;;0;0.6611570247933884
+7.622;Screen change
+8.169;Trial display
+8.631;Left chosen
+8.828;Trial summary;4;0.659;l;l;1;;;0;0.6010518407212622
+8.831;Screen change
+9.358;Trial display
+9.879;Right chosen
+10.018;Trial summary;5;0.659;r;r;1;;;0;0.5464107642920565
+10.02;Screen change
+10.556;Trial display
+11.061;Left chosen
+11.178;Trial summary;6;0.622;l;l;1;;;0;0.496737058447324
+11.179;Screen change
+11.712;Trial display
+12.236;Right chosen
+12.387;Trial summary;7;0.675;r;r;1;;;0;0.4515791440430218
+12.388;Screen change
+12.911;Trial display
+13.532;Left chosen
+13.635;Trial summary;8;0.723;l;l;1;;;0;0.41052649458456525
+13.637;Screen change
+14.148;Trial display
+14.673;Right chosen
+14.834;Trial summary;9;0.686;r;r;1;;;0;0.37320590416778654
+14.835;Screen change
+15.358;Trial display
+16.093;Left chosen
+16.233;Trial summary;10;0.876;l;l;1;;;0;0.33927809469798775
+16.236;Screen change
+16.742;Trial display
+17.196;Right chosen
+17.315;Trial summary;11;0.574;r;r;1;;;0;0.3084346315436252
+17.318;Screen change
+17.847;Trial display
+18.345;Right chosen
+18.481;Trial summary;12;0.633;r;r;1;;;0;0.2803951195851138
+18.482;Screen change
+19.006;Trial display
+19.541;Left chosen
+19.692;Trial summary;13;0.686;l;l;1;;;0;0.2549046541682853
+19.694;Screen change
+20.212;Trial display
+20.712;Left chosen
+20.824;Trial summary;14;0.612;l;l;1;;;0;0.23173150378935023
+20.826;Screen change
+21.338;Trial display
+21.94;Right chosen
+22.062;Trial summary;15;0.724;r;r;1;;;0;0.21066500344486383
+22.064;Screen change
+22.571;Trial display
+23.145;Right chosen
+23.286;Trial summary;16;0.715;r;r;1;;;0;0.19151363949533073
+23.287;Screen change
+23.8;Trial display
+24.536;Left chosen
+24.679;Trial summary;17;0.879;l;l;1;;;0;0.17410330863211884
+24.68;Screen change
+25.186;Trial display
+25.772;Right chosen
+25.907;Trial summary;18;0.721;r;r;1;;;0;0.15827573512010804
+25.908;Screen change
+26.419;Trial display
+26.983;Right chosen
+27.142;Trial summary;19;0.723;r;r;1;;;0;0.14388703192737093
+27.143;Screen change
+27.652;Trial display
+28.211;Left chosen
+28.313;Trial summary;20;0.661;l;l;1;;;0;0.1308063926612463
+28.315;Screen change
+28.847;Trial display
+29.502;Left chosen
+29.616;Trial summary;21;0.769;l;l;1;;;0;0.11891490241931481
+29.619;Screen change
+30.132;Trial display
+30.778;Right chosen
+30.9;Trial summary;22;0.768;r;r;1;;;0;0.10810445674483163
+30.902;Screen change
+31.424;Trial display
+31.941;Left chosen
+32.047;Trial summary;23;0.623;l;l;1;;;0;0.09827677885893783
+32.048;Screen change
+32.559;Trial display
+33.226;Right chosen
+33.331;Trial summary;24;0.772;r;r;1;;;0;0.08934252623539803
+33.333;Screen change
+33.868;Trial display
+34.465;Left chosen
+34.587;Trial summary;25;0.72;l;l;1;;;0;0.08122047839581638
+34.589;Screen change
+35.136;Trial display
+35.826;Left chosen
+35.951;Trial summary;26;0.815;l;l;1;;;0;0.07383679854165125
+35.952;Screen change
+36.47;Trial display
+37.285;Right chosen
+37.451;Trial summary;27;0.982;r;r;1;;;0;0.06712436231059203
+37.452;Screen change
+37.963;Trial display
+38.585;Left chosen
+38.737;Trial summary;28;0.774;l;l;1;;;0;0.06102214755508366
+38.738;Screen change
+39.271;Trial display
+39.969;Left chosen
+40.095;Trial summary;29;0.824;l;l;1;;;0;0.055474679595530596
+40.096;Screen change
+40.611;Trial display
+41.416;Left chosen
+41.431;Trial summary;30;0.82;l;r;0;;;1;0.050431526905027814
+41.433;Screen change
+41.968;Trial display
+42.608;Right chosen
+42.718;Trial summary;31;0.75;r;r;1;;;1;0.0554746795955306
+42.721;Screen change
+43.248;Trial display
+44.111;Right chosen
+44.16;Trial summary;32;0.912;r;l;0;;;1;0.050431526905027814
+44.162;Screen change
+44.671;Trial display
+46.077;Left chosen
+46.222;Trial summary;33;1.551;l;l;1;;;1;0.0554746795955306
+Field_Scale21 value for positive stimuli: 1.0
+Field_Scale21 starting value for negative stimuli: 0.6
+Trial number;PARAM;THRESHOLD;POSITIVE;
+1;0.6;0.9735234483748605;1.0;
+2;0.6363636363636364;0.9735234483748605;1.0;
+3;0.6694214876033058;0.9735234483748605;1.0;
+4;0.6994740796393689;0.9735234483748605;1.0;
+5;0.7267946178539717;0.9735234483748605;1.0;
+6;0.751631470776338;0.9735234483748605;1.0;
+7;0.7742104279784892;0.9735234483748605;1.0;
+8;0.7947367527077174;0.9735234483748605;1.0;
+9;0.8133970479161068;0.9735234483748605;1.0;
+10;0.8303609526510061;0.9735234483748605;1.0;
+11;0.8457826842281874;0.9735234483748605;1.0;
+12;0.8598024402074431;0.9735234483748605;1.0;
+13;0.8725476729158573;0.9735234483748605;1.0;
+14;0.8841342481053249;0.9735234483748605;1.0;
+15;0.8946674982775681;0.9735234483748605;1.0;
+16;0.9042431802523346;0.9735234483748605;1.0;
+17;0.9129483456839406;0.9735234483748605;1.0;
+18;0.920862132439946;0.9735234483748605;1.0;
+19;0.9280564840363146;0.9735234483748605;1.0;
+20;0.9345968036693768;0.9735234483748605;1.0;
+21;0.9405425487903426;0.9735234483748605;1.0;
+22;0.9459477716275841;0.9735234483748605;1.0;
+23;0.9508616105705311;0.9735234483748605;1.0;
+24;0.955328736882301;0.9735234483748605;1.0;
+25;0.9593897608020918;0.9735234483748605;1.0;
+26;0.9630816007291744;0.9735234483748605;1.0;
+27;0.966437818844704;0.9735234483748605;1.0;
+28;0.9694889262224582;0.9735234483748605;1.0;
+29;0.9722626602022347;0.9735234483748605;1.0;
+30;0.9747842365474861;0.9735234483748605;1.0;
+31;0.9722626602022347;0.9735234483748605;1.0;
+32;0.9747842365474861;0.9735234483748605;1.0;
+33;0.9722626602022347;0.9735234483748605;1.0;
+46.251;Screen change
