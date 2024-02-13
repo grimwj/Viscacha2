@@ -1,0 +1,254 @@
+Start of experiment, 20240213_1318
+Source file name: Shape_Brt.txt
+Screen resolution h: 1920
+Screen resolution v: 1080
+Diagonal inch: 31,5
+Horizontal angle: 44,64
+Screen height mm: 392,2580178300104
+Screen width mm: 697,3475872533518
+Distance mm: 849,3099881165621
+Pixel to angle multiplier: 0,02325
+Patient name: JoVE_test
+Data loaded, variable PARAM = Field_Scale21
+Experiment type = Staircase
+Dots/sr (S+ background layer): 10227,114983872782
+Dots/angular deg^2 (S+ background layer): 3,115383766387327
+Dot size angular deg^2 (S+ background layer): 0,11624999999999999
+Dots/sr (S- background layer): 10227,114983872782
+Dots/angular deg^2 (S- background layer): 3,115383766387327
+Dot size angular deg^2 (S- background layer): 0,11624999999999999
+Dots/sr (S+ shape layer): 0,0
+Dots/angular deg^2 (S+ shape layer): 0,0
+Dot size angular deg^2 (S+ shape layer): 0,11624999999999999
+Dots/sr (S- shape layer): 0,0
+Dots/angular deg^2 (S- shape layer): 0,0
+Dot size angular deg^2 (S- shape layer): 0,11624999999999999
+Dots/sr (S+ noise layer): 5844,065705070161
+Dots/angular deg^2 (S+ noise layer): 1,7802192950784725
+Dot size angular deg^2 (S+ noise layer): 0,11624999999999999
+Dots/sr (S- noise layer): 5844,065705070161
+Dots/angular deg^2 (S- noise layer): 1,7802192950784725
+Dot size angular deg^2 (S- noise layer): 0,11624999999999999
+1,518;Scanner S
+1,518;Screen change
+Starting experiment number 1...
+Event time;Event type;Trial;Duration;Selection;Correct;Success;Experimentator;External Stimuli;Reversal;Staircase level
+3,537;Screen change
+4,044;Trial display
+4,514;Left chosen
+4,647;Trial summary;1;0,603;l;l;1;;;0;0,76
+4,649;Screen change
+5,167;Trial display
+5,516;Left chosen
+5,688;Trial summary;2;0,521;l;l;1;;;0;0,6909090909090908
+5,689;Screen change
+6,214;Trial display
+6,578;Left chosen
+6,702;Trial summary;3;0,488;l;l;1;;;0;0,6280991735537189
+6,705;Screen change
+7,215;Trial display
+7,613;Right chosen
+7,724;Trial summary;4;0,509;r;r;1;;;0;0,5709992486851989
+7,725;Screen change
+8,241;Trial display
+8,672;Left chosen
+8,801;Trial summary;5;0,559;l;l;1;;;0;0,5190902260774535
+8,803;Screen change
+9,322;Trial display
+9,823;Left chosen
+9,942;Trial summary;6;0,62;l;l;1;;;0;0,47190020552495765
+9,944;Screen change
+10,455;Trial display
+10,948;Left chosen
+11,074;Trial summary;7;0,619;l;l;1;;;0;0,42900018684087055
+11,074;Screen change
+11,583;Trial display
+11,992;Right chosen
+12,114;Trial summary;8;0,532;r;r;1;;;0;0,3900001698553368
+12,115;Screen change
+12,623;Trial display
+13,14;Left chosen
+13,294;Trial summary;9;0,671;l;l;1;;;0;0,3545456089593971
+13,296;Screen change
+13,827;Trial display
+14,478;Left chosen
+14,595;Trial summary;10;0,769;l;l;1;;;0;0,32231418996308825
+14,597;Screen change
+15,103;Trial display
+15,78;Left chosen
+15,917;Trial summary;11;0,814;l;l;1;;;0;0,29301289996644386
+15,919;Screen change
+16,453;Trial display
+16,906;Right chosen
+17,01;Trial summary;12;0,557;r;r;1;;;0;0,26637536360585806
+17,011;Screen change
+17,55;Trial display
+17,992;Left chosen
+18,12;Trial summary;13;0,57;l;l;1;;;0;0,24215942145987093
+18,121;Screen change
+18,629;Trial display
+19,266;Left chosen
+19,391;Trial summary;14;0,762;l;l;1;;;0;0,22014492859988266
+19,392;Screen change
+19,903;Trial display
+20,399;Left chosen
+20,527;Trial summary;15;0,624;l;l;1;;;0;0,2001317532726206
+20,528;Screen change
+21,04;Trial display
+21,495;Right chosen
+21,608;Trial summary;16;0,568;r;r;1;;;0;0,18193795752056416
+21,61;Screen change
+22,121;Trial display
+22,574;Right chosen
+22,693;Trial summary;17;0,572;r;r;1;;;0;0,16539814320051285
+22,696;Screen change
+23,216;Trial display
+23,682;Right chosen
+23,79;Trial summary;18;0,574;r;r;1;;;0;0,15036194836410258
+23,791;Screen change
+24,3;Trial display
+24,931;Left chosen
+25,062;Trial summary;19;0,763;l;l;1;;;0;0,13669268033100232
+25,063;Screen change
+25,574;Trial display
+26,078;Right chosen
+26,202;Trial summary;20;0,628;r;r;1;;;0;0,12426607302818392
+26,203;Screen change
+26,726;Trial display
+27,18;Left chosen
+27,298;Trial summary;21;0,572;l;l;1;;;0;0,11296915729834901
+27,299;Screen change
+27,844;Trial display
+28,392;Left chosen
+28,529;Trial summary;22;0,685;l;l;1;;;0;0,10269923390759
+28,531;Screen change
+29,056;Trial display
+29,579;Right chosen
+29,722;Trial summary;23;0,666;r;r;1;;;0;0,0933629399159909
+29,724;Screen change
+30,245;Trial display
+30,891;Left chosen
+31,05;Trial summary;24;0,805;l;l;1;;;0;0,08487539992362808
+31,051;Screen change
+31,565;Trial display
+32,151;Left chosen
+32,332;Trial summary;25;0,767;l;l;1;;;0;0,07715945447602553
+32,334;Screen change
+32,848;Trial display
+33,381;Right chosen
+33,533;Trial summary;26;0,685;r;r;1;;;0;0,07014495861456865
+33,534;Screen change
+34,041;Trial display
+34,812;Left chosen
+34,962;Trial summary;27;0,921;l;l;1;;;0;0,06376814419506241
+34,965;Screen change
+35,485;Trial display
+36,06;Right chosen
+36,213;Trial summary;28;0,728;r;r;1;;;0;0,05797104017732946
+36,214;Screen change
+36,74;Trial display
+37,282;Left chosen
+37,418;Trial summary;29;0,677;l;l;1;;;0;0,05270094561575405
+37,422;Screen change
+37,969;Trial display
+38,637;Right chosen
+38,741;Trial summary;30;0,772;r;r;1;;;0;0,047909950559776406
+38,742;Screen change
+39,25;Trial display
+40,021;Left chosen
+40,171;Trial summary;31;0,921;l;l;1;;;0;0,043554500508887636
+40,172;Screen change
+40,699;Trial display
+41,525;Right chosen
+41,717;Trial summary;32;1,018;r;r;1;;;0;0,039595000462625124
+41,719;Screen change
+42,225;Trial display
+42,694;Left chosen
+42,705;Trial summary;33;0,48;l;r;0;;;1;0,035995454966022834
+42,706;Screen change
+43,212;Trial display
+43,728;Left chosen
+43,84;Trial summary;34;0,628;l;l;1;;;1;0,039595000462625124
+43,842;Screen change
+44,366;Trial display
+45,511;Left chosen
+45,635;Trial summary;35;1,269;l;l;1;;;0;0,035995454966022834
+45,636;Screen change
+46,147;Trial display
+46,94;Right chosen
+47,063;Trial summary;36;0,916;r;r;1;;;0;0,03272314087820257
+47,064;Screen change
+47,579;Trial display
+48,242;Right chosen
+48,366;Trial summary;37;0,787;r;r;1;;;0;0,02974830988927506
+48,369;Screen change
+48,887;Trial display
+49,403;Left chosen
+49,547;Trial summary;38;0,66;l;l;1;;;0;0,027043918081159142
+49,548;Screen change
+50,084;Trial display
+50,683;Right chosen
+50,794;Trial summary;39;0,71;r;r;1;;;0;0,024585380073781037
+50,795;Screen change
+51,312;Trial display
+52,035;Right chosen
+52,14;Trial summary;40;0,827;r;r;1;;;0;0,022350345521619124
+52,141;Screen change
+52,655;Trial display
+53,782;Right chosen
+53,956;Trial summary;41;1,301;r;r;1;;;0;0,020318495928744656
+53,957;Screen change
+54,464;Trial display
+55,814;Right chosen
+55,854;Trial summary;42;1,389;r;l;0;;;1;0,018471359935222413
+55,855;Screen change
+56,364;Trial display
+58,388;Left chosen
+58,53;Trial summary;43;2,167;l;l;1;;;1;0,020318495928744656
+Field_Scale21 value for positive stimuli: 1.0
+Field_Scale21 starting value for negative stimuli: 0.62
+Trial number;PARAM;THRESHOLD;POSITIVE;
+1;0,62;0,9857024610884232;1,0;
+2;0,6545454545454545;0,9857024610884232;1,0;
+3;0,6859504132231405;0,9857024610884232;1,0;
+4;0,7145003756574005;0,9857024610884232;1,0;
+5;0,7404548869612733;0,9857024610884232;1,0;
+6;0,7640498972375211;0,9857024610884232;1,0;
+7;0,7854999065795647;0,9857024610884232;1,0;
+8;0,8049999150723316;0,9857024610884232;1,0;
+9;0,8227271955203015;0,9857024610884232;1,0;
+10;0,8388429050184558;0,9857024610884232;1,0;
+11;0,8534935500167781;0,9857024610884232;1,0;
+12;0,8668123181970709;0,9857024610884232;1,0;
+13;0,8789202892700645;0,9857024610884232;1,0;
+14;0,8899275357000587;0,9857024610884232;1,0;
+15;0,8999341233636897;0,9857024610884232;1,0;
+16;0,9090310212397179;0,9857024610884232;1,0;
+17;0,9173009283997435;0,9857024610884232;1,0;
+18;0,9248190258179487;0,9857024610884232;1,0;
+19;0,9316536598344989;0,9857024610884232;1,0;
+20;0,937866963485908;0,9857024610884232;1,0;
+21;0,9435154213508254;0,9857024610884232;1,0;
+22;0,948650383046205;0,9857024610884232;1,0;
+23;0,9533185300420045;0,9857024610884232;1,0;
+24;0,957562300038186;0,9857024610884232;1,0;
+25;0,9614202727619873;0,9857024610884232;1,0;
+26;0,9649275206927157;0,9857024610884232;1,0;
+27;0,9681159279024688;0,9857024610884232;1,0;
+28;0,9710144799113353;0,9857024610884232;1,0;
+29;0,9736495271921229;0,9857024610884232;1,0;
+30;0,9760450247201118;0,9857024610884232;1,0;
+31;0,9782227497455562;0,9857024610884232;1,0;
+32;0,9802024997686875;0,9857024610884232;1,0;
+33;0,9820022725169886;0,9857024610884232;1,0;
+34;0,9802024997686875;0,9857024610884232;1,0;
+35;0,9820022725169886;0,9857024610884232;1,0;
+36;0,9836384295608988;0,9857024610884232;1,0;
+37;0,9851258450553625;0,9857024610884232;1,0;
+38;0,9864780409594204;0,9857024610884232;1,0;
+39;0,9877073099631095;0,9857024610884232;1,0;
+40;0,9888248272391904;0,9857024610884232;1,0;
+41;0,9898407520356277;0,9857024610884232;1,0;
+42;0,9907643200323888;0,9857024610884232;1,0;
+43;0,9898407520356277;0,9857024610884232;1,0;
+58,549;Screen change

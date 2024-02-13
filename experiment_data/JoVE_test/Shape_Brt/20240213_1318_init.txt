@@ -1,0 +1,138 @@
+# propozycja formatu danych
+# kod dla parametru: PARAM
+
+# plik testowy dla ksztaltow, wariant FieldScale
+# zmienia sie skala, ok 0.2 (easy) do 1 (hard)
+
+Background=255
+Screen_Change_Brightness=128
+Experiment_Repeat=1
+
+#Experiment_Type=Constant
+Constant_Definition 
+{
+	Repeat=3
+	Level= 0.4
+	Max_Trials=40
+}
+
+Experiment_Type=Staircase
+Staircase_Definition 
+{
+    Easiest=0.5
+    Hardest=1
+    Start=0.62
+    Max_Reversals=4
+    Factor=0.1
+    Min_Reversals=4
+    Max_Trials=120
+}
+
+# MyFormat [s]
+Trial_Times
+{
+    Initial_Delay=2
+    Screen_Change_Delay=0.5
+    Max_Answer_Time=10.0
+    Delay_After_Positive=0.1
+    Threshold_Calc_Delay=0.5
+}
+
+Positive 
+{
+	# bottom layer, underneath Shape & Noise
+	Background
+	{
+		# 0 - none 
+		# 1 - dots
+		Type=0
+		# px/s 
+		Speed_X=50
+		Speed_Y=100
+		# px, min 8 max 40
+		Dot_Size=5
+		# 255 - white, 0 - black
+		Dot_Color=0
+		Dot_Max_Count=3500
+		# 0 for infinite
+		Life_Time=1000
+	}
+
+	# medium layer, underneath Noise, over Background
+	Shape
+	{
+		Field_Scale=1
+		Scale=1
+		Background_Color=128
+		Ellipse_X=120
+		Ellipse_Y=120
+
+        	# 1-dots
+        	Type=1
+
+		Horizontal_Offset=139
+
+		Speed_X=0
+		Speed_Y=400
+		Dot_Size=5
+		Dot_Color=205
+		Dot_Max_Count=0
+		Life_Time=1000
+	}
+
+	# top layer, over Background & Shape
+	Noise
+	{
+		# 0 - none 
+		# 1 - dots
+		Type=0
+		Speed_X=0
+		Speed_Y=0
+		Dot_Size=5
+		Dot_Color=128
+		Dot_Max_Count=2000
+		Life_Time=0.2
+	}
+}
+
+
+Negative 
+{
+	Shape
+	{
+		Horizontal_Offset=139
+		Field_Scale = PARAM
+		#Scale = PARAM
+		#Ellipse_Y=PARAM
+		#Background_Color=205
+	}
+}
+
+
+
+
+
+
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -9,7 +9,7 @@ def new_level(thr: str, _k: float=0.35) -> float :
     threshold = float(thr.replace(",", "."))
     
     level = round(threshold - _k, 2)
-    print(f'Your new starting level is: {level}')
+    print(f'\nYour new starting level is: {level}.\n')
     
     return level
 
@@ -46,3 +46,6 @@ if __name__ == '__main__':
     
     # call it
     replacer(new_level(comma_threshold))
+    
+    input('Press any key to quit.')
+    

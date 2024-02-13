@@ -1,0 +1,140 @@
+
+/Log number 1/
+Logger begins
+
+/Log number 2/
+Configuration file loaded
+
+/Log number 3/
+Stimuli definition file loaded
+
+/Log number 4/
+Display layer initialized
+
+/Log number 5/
+Scanning for USB feeder
+
+/Log number 6/
+New staircase experiment begins
+
+/Log number 7/
+New stimuli file: Shape_Brt.txt
+
+/Log number 8/
+Start screen displayed
+
+/Log number 9/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 10/
+S key pressed
+
+/Log number 11/
+Scanner trigger received
+
+/Log number 12/
+Change screen displayed
+
+/Log number 13/
+New staircase trial begins
+
+/Log number 14/
+T key pressed
+
+/Log number 15/
+Scanner trigger received
+
+/Log number 16/
+Change screen displayed
+
+/Log number 17/
+New staircase trial begins
+
+/Log number 18/
+Right key pressed
+
+/Log number 19/
+Change screen displayed
+
+/Log number 20/
+New staircase trial begins
+
+/Log number 21/
+Left key pressed
+
+/Log number 22/
+Change screen displayed
+
+/Log number 23/
+New staircase trial begins
+
+/Log number 24/
+Left key pressed
+
+/Log number 25/
+Change screen displayed
+
+/Log number 26/
+New staircase trial begins
+
+/Log number 27/
+Right key pressed
+
+/Log number 28/
+Change screen displayed
+
+/Log number 29/
+New staircase trial begins
+
+/Log number 30/
+Right key pressed
+
+/Log number 31/
+Change screen displayed
+
+/Log number 32/
+New staircase trial begins
+
+/Log number 33/
+ESC pressed
+
+/Log number 34/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.Keyboard_inputs.Keyboard_ESC_Action(Keyboard_inputs.java:167)
+	at vizcacha2.Keyboard_inputs.access$000(Keyboard_inputs.java:9)
+	at vizcacha2.Keyboard_inputs$1.dispatchKeyEvent(Keyboard_inputs.java:75)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+

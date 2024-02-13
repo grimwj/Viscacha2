@@ -1,0 +1,194 @@
+Start of experiment,20220729_1024,,
+Source file name: shape_dotsB_C.txt,,,
+Screen resolution h: 1920,,,
+Screen resolution v: 1080,,,
+Diagonal inch: 31,5,,
+Horizontal angle: 44,64,,
+Screen height mm: 392,2580178300104,,
+Screen width mm: 697,3475872533518,,
+Distance mm: 849,3099881165621,,
+Pixel to angle multiplier: 0,2325,,
+Patient name: Patient_Test,,,
+Data loaded,variable PARAM = Field_Scale21,,
+Experiment type = Staircase,,,
+Dots/sr (S+ background layer): 7202,810981498973,,
+Dots/angular deg^2 (S+ background layer): 2,1941202811842175,,
+Dot size angular deg^2 (S+ background layer): 0,93,,
+Dots/sr (S- background layer): 7202,810981498973,,
+Dots/angular deg^2 (S- background layer): 2,1941202811842175,,
+Dot size angular deg^2 (S- background layer): 0,93,,
+Dots/sr (S+ shape layer): 7202,810981498973,,
+Dots/angular deg^2 (S+ shape layer): 2,1941202811842175,,
+Dot size angular deg^2 (S+ shape layer): 0,93,,
+Dots/sr (S- shape layer): 7202,810981498973,,
+Dots/angular deg^2 (S- shape layer): 2,1941202811842175,,
+Dot size angular deg^2 (S- shape layer): 0,93,,
+Dots/sr (S+ noise layer): 5844,65705070161,,
+Dots/angular deg^2 (S+ noise layer): 1,7802192950784725,,
+Dot size angular deg^2 (S+ noise layer): 0,93,,
+Dots/sr (S- noise layer): 5844,65705070161,,
+Dots/angular deg^2 (S- noise layer): 1,7802192950784725,,
+Dot size angular deg^2 (S- noise layer): 0,93,,
+9,266;Screen change,,
+9,266;Scanner S,,
+Starting experiment number 1...,,,
+Event time;Event type;Trial;Duration;Selection;Correct;Success;Experimentator;External Stimuli;Reversal;Staircase level,,,
+11,284;Screen change,,
+11,838;Trial display,,
+12,789;Right chosen,,
+13,148;Trial summary;1;1,31;r;r;1;;;0;0,76
+13,15;Screen change,,
+13,666;Trial display,,
+14,378;Left chosen,,
+14,695;Trial summary;2;1,028;l;l;1;;;0;0,6909090909090908
+14,696;Screen change,,
+15,216;Trial display,,
+16,038;Left chosen,,
+16,375;Trial summary;3;1,159;l;l;1;;;0;0,6280991735537189
+16,379;Screen change,,
+16,916;Trial display,,
+17,739;Left chosen,,
+18,101;Trial summary;4;1,185;l;l;1;;;0;0,5709992486851989
+18,102;Screen change,,
+18,624;Trial display,,
+19,345;Right chosen,,
+19,676;Trial summary;5;1,051;r;r;1;;;0;0,5190902260774535
+19,677;Screen change,,
+20,223;Trial display,,
+21,436;Right chosen,,
+21,759;Trial summary;6;1,536;r;r;1;;;0;0,47190020552495765
+21,76;Screen change,,
+22,272;Trial display,,
+23,162;Right chosen,,
+23,514;Trial summary;7;1,241;r;r;1;;;0;0,42900018684087055
+23,515;Screen change,,
+24,042;Trial display,,
+25,063;Left chosen,,
+25,393;Trial summary;8;1,35;l;l;1;;;0;0,3900001698553368
+25,395;Screen change,,
+25,911;Trial display,,
+26,851;Left chosen,,
+27,209;Trial summary;9;1,298;l;l;1;;;0;0,3545456089593971
+27,213;Screen change,,
+27,753;Trial display,,
+28,632;Left chosen,,
+28,952;Trial summary;10;1,199;l;l;1;;;0;0,32231418996308825
+28,953;Screen change,,
+29,494;Trial display,,
+30,745;Right chosen,,
+31,056;Trial summary;11;1,562;r;r;1;;;0;0,29301289996644386
+31,057;Screen change,,
+31,583;Trial display,,
+32,759;Right chosen,,
+33,093;Trial summary;12;1,51;r;r;1;;;0;0,26637536360585806
+33,094;Screen change,,
+33,63;Trial display,,
+34,823;Right chosen,,
+35,163;Trial summary;13;1,533;r;r;1;;;0;0,24215942145987093
+35,164;Screen change,,
+35,674;Trial display,,
+36,713;Left chosen,,
+37,049;Trial summary;14;1,375;l;l;1;;;0;0,22014492859988266
+37,05;Screen change,,
+37,559;Trial display,,
+38,285;Left chosen,,
+38,62;Trial summary;15;1,062;l;l;1;;;0;0,2001317532726206
+38,621;Screen change,,
+39,132;Trial display,,
+40,326;Right chosen,,
+40,663;Trial summary;16;1,531;r;r;1;;;0;0,18193795752056416
+40,666;Screen change,,
+41,174;Trial display,,
+42,685;Right chosen,,
+43,044;Trial summary;17;1,87;r;r;1;;;0;0,16539814320051285
+43,045;Screen change,,
+43,556;Trial display,,
+45,132;Left chosen,,
+45,166;Trial summary;18;1,61;l;r;0;;;1;0,15036194836410258
+45,167;Screen change,,
+45,679;Trial display,,
+47,02;Left chosen,,
+47,373;Trial summary;19;1,694;l;l;1;;;1;0,16539814320051285
+47,375;Screen change,,
+47,898;Trial display,,
+49,095;Left chosen,,
+49,449;Trial summary;20;1,551;l;l;1;;;0;0,15036194836410258
+49,449;Screen change,,
+49,972;Trial display,,
+52,198;Left chosen,,
+52,553;Trial summary;21;2,581;l;l;1;;;0;0,13669268033100232
+52,553;Screen change,,
+53,089;Trial display,,
+54,302;Right chosen,,
+54,656;Trial summary;22;1,567;r;r;1;;;0;0,12426607302818392
+54,657;Screen change,,
+55,166;Trial display,,
+56,389;Left chosen,,
+56,704;Trial summary;23;1,539;l;l;1;;;0;0,11296915729834901
+56,707;Screen change,,
+57,226;Trial display,,
+58,463;Right chosen,,
+58,766;Trial summary;24;1,54;r;r;1;;;0;0,10269923390759
+58,767;Screen change,,
+59,283;Trial display,,
+61,106;Right chosen,,
+61,419;Trial summary;25;2,136;r;r;1;;;0;0,933629399159909
+61,42;Screen change,,
+61,929;Trial display,,
+63,887;Left chosen,,
+64,239;Trial summary;26;2,31;l;l;1;;;0;0,08487539992362808
+64,24;Screen change,,
+64,765;Trial display,,
+66,616;Right chosen,,
+66,979;Trial summary;27;2,214;r;r;1;;;0;0,07715945447602553
+66,981;Screen change,,
+67,51;Trial display,,
+69,615;Right chosen,,
+69,967;Trial summary;28;2,457;r;r;1;;;0;0,07014495861456865
+69,968;Screen change,,
+70,497;Trial display,,
+71,806;Left chosen,,
+72,131;Trial summary;29;1,634;l;l;1;;;0;0,06376814419506241
+72,133;Screen change,,
+72,639;Trial display,,
+74,63;Left chosen,,
+74,664;Trial summary;30;2,024;l;r;0;;;1;0,05797104017732946
+74,666;Screen change,,
+75,184;Trial display,,
+77,207;Left chosen,,
+77,517;Trial summary;31;2,334;l;l;1;;;1;0,06376814419506241
+Field_Scale21 value for positive stimuli: 1.0,,,
+Field_Scale21 starting value for negative stimuli: 0.62,,,
+Trial number;PARAM;THRESHOLD;POSITIVE;,,,
+1;0,62;0,9453125905078741;1,0;
+2;0,6545454545454545;0,9453125905078741;1,0;
+3;0,6859504132231405;0,9453125905078741;1,0;
+4;0,7145003756574005;0,9453125905078741;1,0;
+5;0,7404548869612733;0,9453125905078741;1,0;
+6;0,7640498972375211;0,9453125905078741;1,0;
+7;0,7854999065795647;0,9453125905078741;1,0;
+8;0,8049999150723316;0,9453125905078741;1,0;
+9;0,8227271955203015;0,9453125905078741;1,0;
+10;0,8388429050184558;0,9453125905078741;1,0;
+11;0,8534935500167781;0,9453125905078741;1,0;
+12;0,8668123181970709;0,9453125905078741;1,0;
+13;0,8789202892700645;0,9453125905078741;1,0;
+14;0,8899275357000587;0,9453125905078741;1,0;
+15;0,8999341233636897;0,9453125905078741;1,0;
+16;0,9090310212397179;0,9453125905078741;1,0;
+17;0,9173009283997435;0,9453125905078741;1,0;
+18;0,9248190258179487;0,9453125905078741;1,0;
+19;0,9173009283997435;0,9453125905078741;1,0;
+20;0,9248190258179487;0,9453125905078741;1,0;
+21;0,9316536598344989;0,9453125905078741;1,0;
+22;0,937866963485908;0,9453125905078741;1,0;
+23;0,9435154213508254;0,9453125905078741;1,0;
+24;0,948650383046205;0,9453125905078741;1,0;
+25;0,9533185300420045;0,9453125905078741;1,0;
+26;0,957562300038186;0,9453125905078741;1,0;
+27;0,9614202727619873;0,9453125905078741;1,0;
+28;0,9649275206927157;0,9453125905078741;1,0;
+29;0,9681159279024688;0,9453125905078741;1,0;
+30;0,9710144799113353;0,9453125905078741;1,0;
+31;0,9681159279024688;0,9453125905078741;1,0;
+77,543;Screen change,,

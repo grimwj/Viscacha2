@@ -1,0 +1,372 @@
+
+/Log number 1/
+Logger begins
+
+/Log number 2/
+Configuration file loaded
+
+/Log number 3/
+Stimuli definition file loaded
+
+/Log number 4/
+Display layer initialized
+
+/Log number 5/
+Scanning for USB feeder
+
+/Log number 6/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 7/
+Scanning for USB feeder
+
+/Log number 8/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 9/
+Scanning for USB feeder
+
+/Log number 10/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 11/
+Scanning for USB feeder
+
+/Log number 12/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 13/
+Scanning for USB feeder
+
+/Log number 14/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 15/
+Scanning for USB feeder
+
+/Log number 16/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 17/
+Scanning for USB feeder
+
+/Log number 18/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 19/
+Scanning for USB feeder
+
+/Log number 20/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 21/
+Scanning for USB feeder
+
+/Log number 22/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 23/
+Scanning for USB feeder
+
+/Log number 24/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 25/
+Scanning for USB feeder
+
+/Log number 26/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 27/
+Scanning for USB feeder
+
+/Log number 28/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 29/
+Scanning for USB feeder
+
+/Log number 30/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 31/
+Scanning for USB feeder
+
+/Log number 32/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 33/
+Scanning for USB feeder
+
+/Log number 34/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 35/
+Scanning for USB feeder
+
+/Log number 36/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 37/
+Scanning for USB feeder
+
+/Log number 38/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 39/
+Scanning for USB feeder
+
+/Log number 40/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 41/
+Scanning for USB feeder
+
+/Log number 42/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 43/
+Scanning for USB feeder
+
+/Log number 44/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 45/
+Scanning for USB feeder
+
+/Log number 46/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 47/
+Scanning for USB feeder
+
+/Log number 48/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 49/
+Scanning for USB feeder
+
+/Log number 50/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 51/
+Scanning for USB feeder
+
+/Log number 52/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 53/
+Scanning for USB feeder
+
+/Log number 54/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 55/
+Scanning for USB feeder
+
+/Log number 56/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 57/
+Scanning for USB feeder
+
+/Log number 58/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 59/
+Scanning for USB feeder
+
+/Log number 60/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 61/
+Scanning for USB feeder
+
+/Log number 62/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 63/
+Scanning for USB feeder
+
+/Log number 64/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+

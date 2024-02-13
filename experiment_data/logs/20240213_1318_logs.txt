@@ -1,0 +1,470 @@
+
+/Log number 1/
+Logger begins
+
+/Log number 2/
+Configuration file loaded
+
+/Log number 3/
+Stimuli definition file loaded
+
+/Log number 4/
+Display layer initialized
+
+/Log number 5/
+Scanning for USB feeder
+
+/Log number 6/
+New staircase experiment begins
+
+/Log number 7/
+New stimuli file: Shape_Brt.txt
+
+/Log number 8/
+Start screen displayed
+
+/Log number 9/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.SerialComm.ScanPortsForFeeder(SerialComm.java:129)
+	at vizcacha2.Scanner_Thread.run(SerialComm.java:339)
+
+
+/Log number 10/
+S key pressed
+
+/Log number 11/
+Scanner trigger received
+
+/Log number 12/
+Change screen displayed
+
+/Log number 13/
+New staircase trial begins
+
+/Log number 14/
+Left key pressed
+
+/Log number 15/
+Change screen displayed
+
+/Log number 16/
+New staircase trial begins
+
+/Log number 17/
+Left key pressed
+
+/Log number 18/
+Change screen displayed
+
+/Log number 19/
+New staircase trial begins
+
+/Log number 20/
+Left key pressed
+
+/Log number 21/
+Change screen displayed
+
+/Log number 22/
+New staircase trial begins
+
+/Log number 23/
+Right key pressed
+
+/Log number 24/
+Change screen displayed
+
+/Log number 25/
+New staircase trial begins
+
+/Log number 26/
+Left key pressed
+
+/Log number 27/
+Change screen displayed
+
+/Log number 28/
+New staircase trial begins
+
+/Log number 29/
+Left key pressed
+
+/Log number 30/
+Change screen displayed
+
+/Log number 31/
+New staircase trial begins
+
+/Log number 32/
+Left key pressed
+
+/Log number 33/
+Change screen displayed
+
+/Log number 34/
+New staircase trial begins
+
+/Log number 35/
+Right key pressed
+
+/Log number 36/
+Change screen displayed
+
+/Log number 37/
+New staircase trial begins
+
+/Log number 38/
+Left key pressed
+
+/Log number 39/
+Change screen displayed
+
+/Log number 40/
+New staircase trial begins
+
+/Log number 41/
+Left key pressed
+
+/Log number 42/
+Change screen displayed
+
+/Log number 43/
+New staircase trial begins
+
+/Log number 44/
+Left key pressed
+
+/Log number 45/
+Change screen displayed
+
+/Log number 46/
+New staircase trial begins
+
+/Log number 47/
+Right key pressed
+
+/Log number 48/
+Change screen displayed
+
+/Log number 49/
+New staircase trial begins
+
+/Log number 50/
+Left key pressed
+
+/Log number 51/
+Change screen displayed
+
+/Log number 52/
+New staircase trial begins
+
+/Log number 53/
+Left key pressed
+
+/Log number 54/
+Change screen displayed
+
+/Log number 55/
+New staircase trial begins
+
+/Log number 56/
+Left key pressed
+
+/Log number 57/
+Change screen displayed
+
+/Log number 58/
+New staircase trial begins
+
+/Log number 59/
+Right key pressed
+
+/Log number 60/
+Change screen displayed
+
+/Log number 61/
+New staircase trial begins
+
+/Log number 62/
+Right key pressed
+
+/Log number 63/
+Change screen displayed
+
+/Log number 64/
+New staircase trial begins
+
+/Log number 65/
+Right key pressed
+
+/Log number 66/
+Change screen displayed
+
+/Log number 67/
+New staircase trial begins
+
+/Log number 68/
+Left key pressed
+
+/Log number 69/
+Change screen displayed
+
+/Log number 70/
+New staircase trial begins
+
+/Log number 71/
+Right key pressed
+
+/Log number 72/
+Change screen displayed
+
+/Log number 73/
+New staircase trial begins
+
+/Log number 74/
+Left key pressed
+
+/Log number 75/
+Change screen displayed
+
+/Log number 76/
+New staircase trial begins
+
+/Log number 77/
+Left key pressed
+
+/Log number 78/
+Change screen displayed
+
+/Log number 79/
+New staircase trial begins
+
+/Log number 80/
+Right key pressed
+
+/Log number 81/
+Change screen displayed
+
+/Log number 82/
+New staircase trial begins
+
+/Log number 83/
+Left key pressed
+
+/Log number 84/
+Change screen displayed
+
+/Log number 85/
+New staircase trial begins
+
+/Log number 86/
+Left key pressed
+
+/Log number 87/
+Change screen displayed
+
+/Log number 88/
+New staircase trial begins
+
+/Log number 89/
+Right key pressed
+
+/Log number 90/
+Change screen displayed
+
+/Log number 91/
+New staircase trial begins
+
+/Log number 92/
+Left key pressed
+
+/Log number 93/
+Change screen displayed
+
+/Log number 94/
+New staircase trial begins
+
+/Log number 95/
+Right key pressed
+
+/Log number 96/
+Change screen displayed
+
+/Log number 97/
+New staircase trial begins
+
+/Log number 98/
+Left key pressed
+
+/Log number 99/
+Change screen displayed
+
+/Log number 100/
+New staircase trial begins
+
+/Log number 101/
+Right key pressed
+
+/Log number 102/
+Change screen displayed
+
+/Log number 103/
+New staircase trial begins
+
+/Log number 104/
+Left key pressed
+
+/Log number 105/
+Change screen displayed
+
+/Log number 106/
+New staircase trial begins
+
+/Log number 107/
+Right key pressed
+
+/Log number 108/
+Change screen displayed
+
+/Log number 109/
+New staircase trial begins
+
+/Log number 110/
+Left key pressed
+
+/Log number 111/
+Change screen displayed
+
+/Log number 112/
+New staircase trial begins
+
+/Log number 113/
+Left key pressed
+
+/Log number 114/
+Change screen displayed
+
+/Log number 115/
+New staircase trial begins
+
+/Log number 116/
+Left key pressed
+
+/Log number 117/
+Change screen displayed
+
+/Log number 118/
+New staircase trial begins
+
+/Log number 119/
+Right key pressed
+
+/Log number 120/
+Change screen displayed
+
+/Log number 121/
+New staircase trial begins
+
+/Log number 122/
+Right key pressed
+
+/Log number 123/
+Change screen displayed
+
+/Log number 124/
+New staircase trial begins
+
+/Log number 125/
+Left key pressed
+
+/Log number 126/
+Change screen displayed
+
+/Log number 127/
+New staircase trial begins
+
+/Log number 128/
+Right key pressed
+
+/Log number 129/
+Change screen displayed
+
+/Log number 130/
+New staircase trial begins
+
+/Log number 131/
+Right key pressed
+
+/Log number 132/
+Change screen displayed
+
+/Log number 133/
+New staircase trial begins
+
+/Log number 134/
+Right key pressed
+
+/Log number 135/
+Change screen displayed
+
+/Log number 136/
+New staircase trial begins
+
+/Log number 137/
+Right key pressed
+
+/Log number 138/
+Change screen displayed
+
+/Log number 139/
+New staircase trial begins
+
+/Log number 140/
+Left key pressed
+
+/Log number 141/
+Change screen displayed
+
+/Log number 142/
+All experiments finished, awaiting termination...
+
+/Log number 143/
+ESC pressed
+
+/Log number 144/
+jssc.SerialPortException: Port name - COM3; Method name - closePort(); Exception type - Port not opened.
+	at jssc.SerialPort.checkPortOpened(SerialPort.java:878)
+	at jssc.SerialPort.closePort(SerialPort.java:1088)
+	at vizcacha2.SerialComm.CloseSerialComm(SerialComm.java:250)
+	at vizcacha2.Keyboard_inputs.Keyboard_ESC_Action(Keyboard_inputs.java:167)
+	at vizcacha2.Keyboard_inputs.access$000(Keyboard_inputs.java:9)
+	at vizcacha2.Keyboard_inputs$1.dispatchKeyEvent(Keyboard_inputs.java:75)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
