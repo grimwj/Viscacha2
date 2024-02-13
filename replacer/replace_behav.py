@@ -13,7 +13,7 @@ def new_level(thr: str, _k: float=0.35) -> float :
     
     return level
 
-def replacer(new_lev: float, _path: str = './shape_dots*.txt'):
+def replacer(new_lev: float, _path: str = '../shape_dots*.txt'):
     '''
     Walk to the behavioral folder and replace the values.
     '''
@@ -28,10 +28,11 @@ def replacer(new_lev: float, _path: str = './shape_dots*.txt'):
             for line in lines:
                 new_line = re.sub(
                     r'^([ ]{4}|[\t])Start=0.[\d]{2}', 
-                    f'    Start={new_lev}'.rjust(len(line)-1),
+                    f'   Start={new_lev}'.rjust(len(line)-1),
                     line
                 )
                 f.write(new_line)
+                
     return
         
 if __name__ == '__main__':
